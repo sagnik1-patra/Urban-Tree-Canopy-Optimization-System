@@ -1,0 +1,9 @@
+{
+    "random_forest": {
+        "rmse": 1.039014203066457,
+        "r2_score": 0.24170895032475292
+    },
+    "dataset": "Seattle Weather",
+    "use_case": "Urban Tree Canopy Optimization",
+    "role": "Environmental context for RL + GA"
+}

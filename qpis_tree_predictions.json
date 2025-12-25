@@ -1,0 +1,9 @@
+{
+    "rmse": 0.9882293830020938,
+    "r2_score": 0.31402468695352326,
+    "best_parameters": {
+        "n_estimators": 295,
+        "max_depth": 4
+    },
+    "optimizer": "QPSO + AIS"
+}

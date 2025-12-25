@@ -1,0 +1,9 @@
+{
+    "rmse": 0.9906675460172943,
+    "r2_score": 0.3106356299398684,
+    "best_parameters": {
+        "n_estimators": 71,
+        "max_depth": 4
+    },
+    "optimizer": "PSO + CSA"
+}

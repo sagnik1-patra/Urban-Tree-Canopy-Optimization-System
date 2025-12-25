@@ -1,0 +1,12 @@
+application: Climate-adaptive tree placement optimization
+data_path: C:\Users\NXTWAVE\Downloads\Urban Tree Canopy Optimization System\archive\seattle-weather.csv
+features:
+- precipitation
+- temp_max
+- temp_min
+- wind
+models:
+- RandomForestRegressor
+- NeuralNetwork
+scaling: StandardScaler
+target: weather

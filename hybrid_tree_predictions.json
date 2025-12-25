@@ -1,0 +1,8 @@
+{
+    "rmse": 0.9877581944236755,
+    "r2_score": 0.3146786781856654,
+    "best_parameters": {
+        "n_estimators": 300,
+        "max_depth": 4
+    }
+}
