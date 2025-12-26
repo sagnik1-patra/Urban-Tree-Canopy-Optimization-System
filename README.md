@@ -1,4 +1,4 @@
-🌳 Urban Tree Canopy Optimization System
+🌳 Urban Tree Canopy Optimization System.
 Hybrid QPSO + AIS Based Climate-Adaptive Modeling
 📌 Project Overview
 
